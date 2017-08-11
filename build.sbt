@@ -1,4 +1,4 @@
-name := "ScalaBot"
+name := "player.ScalaBot"
 
 version := "1.0"
 
